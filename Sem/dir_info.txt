@@ -1,0 +1,5 @@
+INFO:__main__:File(name='tsk1', extension='.log', dir=False, parent=WindowsPath('logs'))
+INFO:__main__:File(name='tsk2', extension='.log', dir=False, parent=WindowsPath('logs'))
+INFO:__main__:File(name='tsk3', extension='.log', dir=False, parent=WindowsPath('logs'))
+INFO:__main__:File(name='tsk4', extension='.log', dir=False, parent=WindowsPath('logs'))
+INFO:__main__:File(name='tsk5', extension='.log', dir=False, parent=WindowsPath('logs'))
